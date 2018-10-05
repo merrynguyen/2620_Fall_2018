@@ -58,6 +58,28 @@
     <dwg name="53"/>
     <dwg name="54"/>
     <dwg name="55"/>
+    <dwg name="56"/>
+    <dwg name="57"/>
+    <dwg name="58"/>
+    <dwg name="59"/>
+    <dwg name="60"/>
+    <dwg name="61"/>
+    <dwg name="62"/>
+    <dwg name="63"/>
+    <dwg name="64"/>
+    <dwg name="65"/>
+    <dwg name="66"/>
+    <dwg name="67"/>
+    <dwg name="68"/>
+    <dwg name="69"/>
+    <dwg name="70"/>
+    <dwg name="71"/>
+    <dwg name="72"/>
+    <dwg name="73"/>
+    <dwg name="74"/>
+    <dwg name="75"/>
+    <dwg name="76"/>
+    <dwg name="77"/>
    </drawings>
   </element>
   <element id="2" elementName="Movement" elementFolder="Movement" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -90,7 +112,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="094eb8b43a101051" nbframes="51">
+  <scene name="Top" id="094eb8b43a101051" nbframes="69">
    <columns>
     <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="5" id="1"/>
@@ -141,9 +163,30 @@
      <elementSeq exposures="46" val="53" id="1"/>
      <elementSeq exposures="47" val="54" id="1"/>
      <elementSeq exposures="48" val="55" id="1"/>
+     <elementSeq exposures="49" val="56" id="1"/>
+     <elementSeq exposures="50" val="57" id="1"/>
+     <elementSeq exposures="51" val="58" id="1"/>
+     <elementSeq exposures="52" val="59" id="1"/>
+     <elementSeq exposures="53" val="60" id="1"/>
+     <elementSeq exposures="54" val="61" id="1"/>
+     <elementSeq exposures="55" val="62" id="1"/>
+     <elementSeq exposures="56" val="64" id="1"/>
+     <elementSeq exposures="57" val="65" id="1"/>
+     <elementSeq exposures="58" val="66" id="1"/>
+     <elementSeq exposures="59" val="67" id="1"/>
+     <elementSeq exposures="60" val="68" id="1"/>
+     <elementSeq exposures="61" val="69" id="1"/>
+     <elementSeq exposures="62" val="70" id="1"/>
+     <elementSeq exposures="63" val="71" id="1"/>
+     <elementSeq exposures="64" val="72" id="1"/>
+     <elementSeq exposures="65" val="73" id="1"/>
+     <elementSeq exposures="66" val="74" id="1"/>
+     <elementSeq exposures="67" val="75" id="1"/>
+     <elementSeq exposures="68" val="76" id="1"/>
+     <elementSeq exposures="69" val="77" id="1"/>
     </column>
     <column type="0" name="Movement" displayOrder="2" width="100" anonymous="true" id="2">
-     <elementSeq exposures="33-50" val="6" id="2"/>
+     <elementSeq exposures="33-66" val="6" id="2"/>
     </column>
     <column type="3" name="ATV-094F3B95118303BB" displayOrder="4" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -250,7 +293,7 @@
      </points>
     </column>
     <column type="0" name="Blackbackground" displayOrder="3" width="100" anonymous="true" id="3">
-     <elementSeq exposures="1-50" val="2" id="3"/>
+     <elementSeq exposures="1-65" val="2" id="3"/>
     </column>
    </columns>
    <options>
