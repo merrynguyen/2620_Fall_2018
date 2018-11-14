@@ -34,6 +34,9 @@
     <dwg name="29"/>
     <dwg name="30"/>
     <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
    </drawings>
   </element>
  </elements>
@@ -84,6 +87,9 @@
      <elementSeq exposures="149-150" val="29" id="1"/>
      <elementSeq exposures="151-152" val="30" id="1"/>
      <elementSeq exposures="153-154" val="31" id="1"/>
+     <elementSeq exposures="155-156" val="32" id="1"/>
+     <elementSeq exposures="157-158" val="33" id="1"/>
+     <elementSeq exposures="159" val="34" id="1"/>
     </column>
    </columns>
    <options>
