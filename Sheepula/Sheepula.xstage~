@@ -17,23 +17,6 @@
     <dwg name="12"/>
     <dwg name="13"/>
     <dwg name="14"/>
-    <dwg name="15"/>
-    <dwg name="16"/>
-    <dwg name="17"/>
-    <dwg name="18"/>
-    <dwg name="19"/>
-    <dwg name="20"/>
-    <dwg name="21"/>
-    <dwg name="22"/>
-    <dwg name="23"/>
-    <dwg name="24"/>
-    <dwg name="25"/>
-    <dwg name="26"/>
-    <dwg name="27"/>
-    <dwg name="28"/>
-    <dwg name="29"/>
-    <dwg name="30"/>
-    <dwg name="31"/>
    </drawings>
   </element>
  </elements>
@@ -50,7 +33,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="095bbe6d99b008da" nbframes="257">
+  <scene name="Top" id="095bbe6d99b008da" nbframes="251">
    <columns>
     <column type="0" name="Drawing" displayOrder="1" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="1" id="1"/>
@@ -67,23 +50,6 @@
      <elementSeq exposures="99" val="12" id="1"/>
      <elementSeq exposures="100" val="13" id="1"/>
      <elementSeq exposures="101" val="14" id="1"/>
-     <elementSeq exposures="102-103,104-108,109-110" val="15" id="1"/>
-     <elementSeq exposures="111" val="16" id="1"/>
-     <elementSeq exposures="112-114" val="17" id="1"/>
-     <elementSeq exposures="115-118" val="18" id="1"/>
-     <elementSeq exposures="119" val="19" id="1"/>
-     <elementSeq exposures="120-121" val="20" id="1"/>
-     <elementSeq exposures="122-124" val="21" id="1"/>
-     <elementSeq exposures="125-127" val="22" id="1"/>
-     <elementSeq exposures="128-130" val="23" id="1"/>
-     <elementSeq exposures="131-133" val="24" id="1"/>
-     <elementSeq exposures="134-135" val="25" id="1"/>
-     <elementSeq exposures="136-137" val="26" id="1"/>
-     <elementSeq exposures="138-145" val="27" id="1"/>
-     <elementSeq exposures="146-148" val="28" id="1"/>
-     <elementSeq exposures="149-150" val="29" id="1"/>
-     <elementSeq exposures="151-152" val="30" id="1"/>
-     <elementSeq exposures="153" val="31" id="1"/>
     </column>
    </columns>
    <options>
