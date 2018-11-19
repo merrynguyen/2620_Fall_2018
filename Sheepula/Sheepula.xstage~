@@ -67,6 +67,11 @@
     <dwg name="12"/>
     <dwg name="13"/>
     <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
    </drawings>
   </element>
  </elements>
@@ -146,6 +151,11 @@
      <elementSeq exposures="18-19" val="12" id="2"/>
      <elementSeq exposures="20" val="13" id="2"/>
      <elementSeq exposures="21" val="14" id="2"/>
+     <elementSeq exposures="22" val="15" id="2"/>
+     <elementSeq exposures="23" val="16" id="2"/>
+     <elementSeq exposures="24" val="18" id="2"/>
+     <elementSeq exposures="25-26" val="17" id="2"/>
+     <elementSeq exposures="27" val="19" id="2"/>
     </column>
    </columns>
    <options>
