@@ -147,6 +147,12 @@
     <dwg name="65"/>
     <dwg name="66"/>
     <dwg name="67"/>
+    <dwg name="68"/>
+    <dwg name="69"/>
+    <dwg name="70"/>
+    <dwg name="71"/>
+    <dwg name="72"/>
+    <dwg name="73"/>
    </drawings>
   </element>
   <element id="3" elementName="Drawing_1" elementFolder="Drawing_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -352,6 +358,12 @@
      <elementSeq exposures="70" val="65" id="2"/>
      <elementSeq exposures="71" val="67" id="2"/>
      <elementSeq exposures="72" val="66" id="2"/>
+     <elementSeq exposures="73" val="68" id="2"/>
+     <elementSeq exposures="74" val="69" id="2"/>
+     <elementSeq exposures="75" val="70" id="2"/>
+     <elementSeq exposures="76" val="71" id="2"/>
+     <elementSeq exposures="77" val="72" id="2"/>
+     <elementSeq exposures="78" val="73" id="2"/>
     </column>
     <column type="0" name="Drawing_1" displayOrder="3" width="100" anonymous="true" id="3">
      <elementSeq exposures="42-51" val="3" id="3"/>
