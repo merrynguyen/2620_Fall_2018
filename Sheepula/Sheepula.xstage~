@@ -127,6 +127,24 @@
     <dwg name="45"/>
     <dwg name="46"/>
     <dwg name="47"/>
+    <dwg name="48"/>
+    <dwg name="49"/>
+    <dwg name="50"/>
+    <dwg name="51"/>
+    <dwg name="52"/>
+    <dwg name="53"/>
+    <dwg name="54"/>
+    <dwg name="55"/>
+    <dwg name="56"/>
+    <dwg name="57"/>
+    <dwg name="58"/>
+    <dwg name="59"/>
+    <dwg name="60"/>
+    <dwg name="61"/>
+    <dwg name="62"/>
+    <dwg name="63"/>
+    <dwg name="64"/>
+    <dwg name="65"/>
    </drawings>
   </element>
   <element id="3" elementName="Drawing_1" elementFolder="Drawing_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -195,7 +213,7 @@
  <scenes>
   <scene name="Top" id="095bbe6d99b008da" nbframes="257">
    <columns>
-    <column type="0" name="Rough" display="false" displayOrder="1" width="100" anonymous="true" id="1">
+    <column type="0" name="Rough" displayOrder="1" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="1" id="1"/>
      <elementSeq exposures="2" val="2" id="1"/>
      <elementSeq exposures="3" val="3" id="1"/>
@@ -313,12 +331,29 @@
      <elementSeq exposures="51" val="44" id="2"/>
      <elementSeq exposures="52" val="46" id="2"/>
      <elementSeq exposures="53" val="47" id="2"/>
+     <elementSeq exposures="54" val="48" id="2"/>
+     <elementSeq exposures="55" val="49" id="2"/>
+     <elementSeq exposures="56" val="50" id="2"/>
+     <elementSeq exposures="57" val="51" id="2"/>
+     <elementSeq exposures="58" val="52" id="2"/>
+     <elementSeq exposures="59" val="54" id="2"/>
+     <elementSeq exposures="60" val="55" id="2"/>
+     <elementSeq exposures="61" val="56" id="2"/>
+     <elementSeq exposures="62" val="57" id="2"/>
+     <elementSeq exposures="63" val="58" id="2"/>
+     <elementSeq exposures="64" val="59" id="2"/>
+     <elementSeq exposures="65" val="60" id="2"/>
+     <elementSeq exposures="66" val="61" id="2"/>
+     <elementSeq exposures="67" val="62" id="2"/>
+     <elementSeq exposures="68" val="63" id="2"/>
+     <elementSeq exposures="69" val="64" id="2"/>
+     <elementSeq exposures="70" val="65" id="2"/>
     </column>
     <column type="0" name="Drawing_1" displayOrder="3" width="100" anonymous="true" id="3">
      <elementSeq exposures="42-51" val="3" id="3"/>
      <elementSeq exposures="52" val="4" id="3"/>
      <elementSeq exposures="56-59" val="2" id="3"/>
-     <elementSeq exposures="60-70" val="5" id="3"/>
+     <elementSeq exposures="70" val="5" id="3"/>
      <elementSeq exposures="71" val="6" id="3"/>
     </column>
     <column type="0" name="BodyMain" displayOrder="4" width="100" anonymous="true" id="4">
