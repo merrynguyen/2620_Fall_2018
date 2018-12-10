@@ -611,6 +611,8 @@
     <dwg name="9"/>
     <dwg name="10"/>
     <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
    </drawings>
   </element>
   <element id="7" elementName="color" elementFolder="color" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1119,6 +1121,11 @@
     <dwg name="261"/>
    </drawings>
   </element>
+  <element id="9" elementName="WhiteBackground" elementFolder="WhiteBackground" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -1133,7 +1140,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="095bbe6d99b008da" nbframes="291">
+  <scene name="Top" id="095bbe6d99b008da" nbframes="308">
    <columns>
     <column type="0" name="Main" displayOrder="1" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-2" val="1" id="2"/>
@@ -1403,7 +1410,7 @@
      <elementSeq exposures="98" val="8" id="3"/>
      <elementSeq exposures="99" val="9" id="3"/>
     </column>
-    <column type="0" name="BodyMain" displayOrder="3" width="100" anonymous="true" id="4">
+    <column type="0" name="BodyMain" display="false" displayOrder="3" width="100" anonymous="true" id="4">
      <elementSeq exposures="12" val="1" id="4"/>
      <elementSeq exposures="13" val="2" id="4"/>
      <elementSeq exposures="14" val="36" id="4"/>
@@ -1632,49 +1639,49 @@
      <elementSeq exposures="215-216" val="21" id="5"/>
      <elementSeq exposures="217-218" val="22" id="5"/>
     </column>
-    <column type="3" name="ATV-0961513980B00886" displayOrder="8" width="100" anonymous="true">
+    <column type="3" name="ATV-0961513980B00886" displayOrder="9" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
       <pt constSeg="false" x="269" yLocal="0" y="0"/>
      </points>
     </column>
-    <column type="3" name="ATV-0961513980B00887" displayOrder="9" width="100" anonymous="true">
+    <column type="3" name="ATV-0961513980B00887" displayOrder="10" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
       <pt constSeg="false" x="269" yLocal="0" y="0"/>
      </points>
     </column>
-    <column type="3" name="ATV-0961513980B00888" displayOrder="10" width="100" anonymous="true">
+    <column type="3" name="ATV-0961513980B00888" displayOrder="11" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
       <pt constSeg="false" x="269" yLocal="0" y="0"/>
      </points>
     </column>
-    <column type="3" name="ATV-0961513980B00889" displayOrder="11" width="100" anonymous="true">
+    <column type="3" name="ATV-0961513980B00889" displayOrder="12" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
       <pt constSeg="false" x="269" yLocal="1" y="1"/>
      </points>
     </column>
-    <column type="3" name="ATV-0961513980B0088A" displayOrder="12" width="100" anonymous="true">
+    <column type="3" name="ATV-0961513980B0088A" displayOrder="13" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
       <pt constSeg="false" x="269" yLocal="1" y="1"/>
      </points>
     </column>
-    <column type="3" name="ATV-0961513980B0088B" displayOrder="13" width="100" anonymous="true">
+    <column type="3" name="ATV-0961513980B0088B" displayOrder="14" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
       <pt constSeg="false" x="269" yLocal="0" y="0"/>
      </points>
     </column>
-    <column type="3" name="ATV-0961513980B0088C" displayOrder="14" width="100" anonymous="true">
+    <column type="3" name="ATV-0961513980B0088C" displayOrder="15" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
@@ -1692,7 +1699,9 @@
      <elementSeq exposures="281" val="8" id="6"/>
      <elementSeq exposures="282" val="9" id="6"/>
      <elementSeq exposures="283" val="10" id="6"/>
-     <elementSeq exposures="284" val="11" id="6"/>
+     <elementSeq exposures="284-286" val="11" id="6"/>
+     <elementSeq exposures="287-289" val="12" id="6"/>
+     <elementSeq exposures="290-304" val="13" id="6"/>
     </column>
     <column type="0" name="color" displayOrder="6" width="100" anonymous="true" id="7">
      <elementSeq exposures="1-2" val="1" id="7"/>
@@ -1951,7 +1960,7 @@
      <elementSeq exposures="281" val="287" id="7"/>
      <elementSeq exposures="282" val="288" id="7"/>
      <elementSeq exposures="283" val="289" id="7"/>
-     <elementSeq exposures="284" val="290" id="7"/>
+     <elementSeq exposures="284-301" val="290" id="7"/>
     </column>
     <column type="0" name="Colorbody" displayOrder="7" width="100" anonymous="true" id="8">
      <elementSeq exposures="12" val="1" id="8"/>
@@ -2161,7 +2170,10 @@
      <elementSeq exposures="277" val="258" id="8"/>
      <elementSeq exposures="278-282" val="259" id="8"/>
      <elementSeq exposures="283" val="260" id="8"/>
-     <elementSeq exposures="284" val="261" id="8"/>
+     <elementSeq exposures="284-301" val="261" id="8"/>
+    </column>
+    <column type="0" name="WhiteBackground" displayOrder="8" width="100" anonymous="true" id="9">
+     <elementSeq exposures="1-301" val="1" id="9"/>
     </column>
    </columns>
    <options>
@@ -2436,6 +2448,7 @@
      </module>
      <module type="READ" name="BodyMain" pos="0,0,0" publishUnderTab="BodyMain">
       <options>
+       <disabled val="true"/>
        <locked val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
@@ -2646,7 +2659,6 @@
      </module>
      <module type="READ" name="wolf" pos="0,0,0" publishUnderTab="wolf">
       <options>
-       <locked val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
@@ -2958,17 +2970,122 @@
        <canAnimate val="true"/>
       </attrs>
      </module>
+     <module type="READ" name="WhiteBackground" pos="0,0,0" publishUnderTab="WhiteBackground">
+      <options>
+       <version val="1"/>
+       <collapsed val="false"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="WhiteBackground">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
      <link out="Composite" in="Write"/>
-     <link out="FaceMain" in="Composite" inport="6"/>
-     <link out="Drawing_1" in="Composite" inport="5"/>
-     <link out="BodyMain" in="Composite" inport="4"/>
-     <link out="Salt" in="Composite" inport="3"/>
-     <link out="wolf" in="Composite" inport="2"/>
-     <link out="color" in="Composite" inport="1"/>
-     <link out="Colorbody" in="Composite" inport="0"/>
+     <link out="FaceMain" in="Composite" inport="7"/>
+     <link out="Drawing_1" in="Composite" inport="6"/>
+     <link out="BodyMain" in="Composite" inport="5"/>
+     <link out="Salt" in="Composite" inport="4"/>
+     <link out="wolf" in="Composite" inport="3"/>
+     <link out="color" in="Composite" inport="2"/>
+     <link out="Colorbody" in="Composite" inport="1"/>
+     <link out="WhiteBackground" in="Composite" inport="0"/>
     </linkedlist>
    </rootgroup>
   </scene>
